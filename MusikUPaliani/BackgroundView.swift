@@ -13,7 +13,7 @@ struct BackgroundView: View {
                         [
                             Color("lightBluePurple"),
                             Color("personalPink"),
-                            Color("personalPurple"),
+                            Color("personalPurple")
                         ],
                        startPoint: .topLeading, endPoint: .bottomTrailing)
             .ignoresSafeArea()

@@ -16,7 +16,6 @@
 		3C591C7A27B827E50059159B /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C591C7927B827E50059159B /* BackgroundView.swift */; };
 		3C591C7C27B82BC50059159B /* AlbumModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C591C7B27B82BC50059159B /* AlbumModel.swift */; };
 		3C591C8027B82D1A0059159B /* AlbumScrollCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C591C7F27B82D1A0059159B /* AlbumScrollCell.swift */; };
-		3C591C8227B830180059159B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C591C8127B830180059159B /* MainView.swift */; };
 		3C591C8427B832180059159B /* EntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C591C8327B832180059159B /* EntryView.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +30,6 @@
 		3C591C7927B827E50059159B /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 		3C591C7B27B82BC50059159B /* AlbumModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumModel.swift; sourceTree = "<group>"; };
 		3C591C7F27B82D1A0059159B /* AlbumScrollCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumScrollCell.swift; sourceTree = "<group>"; };
-		3C591C8127B830180059159B /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		3C591C8327B832180059159B /* EntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,7 +72,6 @@
 				3C591C7F27B82D1A0059159B /* AlbumScrollCell.swift */,
 				3C591C6B27B812D00059159B /* Assets.xcassets */,
 				3C591C7B27B82BC50059159B /* AlbumModel.swift */,
-				3C591C8127B830180059159B /* MainView.swift */,
 				3C591C6D27B812D00059159B /* Preview Content */,
 			);
 			path = MusikUPaliani;
@@ -159,7 +156,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C591C8027B82D1A0059159B /* AlbumScrollCell.swift in Sources */,
-				3C591C8227B830180059159B /* MainView.swift in Sources */,
 				3C591C7A27B827E50059159B /* BackgroundView.swift in Sources */,
 				3C591C7C27B82BC50059159B /* AlbumModel.swift in Sources */,
 				3C591C6A27B812CF0059159B /* ContentView.swift in Sources */,

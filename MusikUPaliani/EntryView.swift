@@ -44,7 +44,13 @@ struct ButtonModifier: ViewModifier {
             .font(.title3.bold())
             .padding(.horizontal, 40)
             .padding(.vertical)
-            .background(LinearGradient(colors: [.pink, .purple, .purple], startPoint: .trailing, endPoint: .leading))
+            .background(LinearGradient(colors: [
+                Color("lightBluePurple"),
+                Color("personalPink"),
+                
+                Color("personalPurple"),
+          
+                                               ], startPoint: .leading, endPoint: .trailing))
             .clipShape(RoundedRectangle(cornerRadius: 20))
             .shadow(color: Color.purple, radius: 3, x: 3, y: 3)
     }

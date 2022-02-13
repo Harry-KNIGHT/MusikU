@@ -18,12 +18,6 @@ struct SerchButtonView: View {
                     .textFieldStyle(.roundedBorder)
                 
             }
-        }
-        //        .padding(.horizontal, 100)
-        //        .padding(.vertical, 10)
-        //        .background(.ultraThinMaterial)
-        //        .clipShape(RoundedRectangle(cornerRadius: 30))
-        
     }
 }
 
